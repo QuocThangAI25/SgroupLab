@@ -1,0 +1,40 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+.container {
+  width: 500px;
+}
+.styling1 {
+  color: red;
+}
+.styling2:visited {
+  color: #ca1a70;
+}
+.styling3 {
+  font-size: 10px;
+}
+.color-box {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  margin: 0 4px;
+  vertical-align: middle;
+}
+.content {
+  display: flex;
+  align-items: flex-start;
+  gap: 30px;
+}
+
+figure img {
+  width: 250px;
+}
+
+figure {
+  margin: 0;
+}
+
+.text {
+  max-width: 500px;
+}
